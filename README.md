@@ -69,3 +69,15 @@
   - [✅] Queue length
   - [✅] Requests processed per container
   - [✅] Autoscaling events over time
+
+
+## My Contribution
+
+- Implemented the custom autoscaling logic for worker containers, including:
+  - Defining metrics to track queue length / load.
+  - Writing the autoscaler module to decide when to scale up or scale down workers.
+  - Integrating the autoscaler with Docker so new worker containers are created and removed automatically.
+- Contributed to the frontend dashboard:
+  - Built the components that display worker ports, load, and active/inactive status.
+  - Connected the UI to the backend APIs so autoscaling metrics are updated in real time.
+  - Helped with styling/layout to keep the grid view clear and responsive.
