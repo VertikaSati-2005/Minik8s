@@ -1,3 +1,9 @@
+<img width="870" height="1350" alt="image" src="https://github.com/user-attachments/assets/fe80ca83-2252-460d-bb42-3462a408a6b2" />
+<img width="297" height="738" alt="Screenshot 2025-11-16 193914" src="https://github.com/user-attachments/assets/174e1329-5a0b-4b43-b1ad-ad168553988b" />
+<img width="1331" height="756" alt="Screenshot 2025-11-13 195820" src="https://github.com/user-attachments/assets/131ac244-b6fb-4189-9475-ee968c777d62" />
+<img width="1341" height="750" alt="Screenshot 2025-11-13 202536" src="https://github.com/user-attachments/assets/a3099146-844d-4ff0-9cf3-af88701def41" />
+
+
 # Autoscaler + Load Balancer + Workers + Queue Backend Roadmap
 
 ## 1. Setup & Boilerplate
